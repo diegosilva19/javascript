@@ -1,0 +1,24 @@
+ES6
+
+
+- Webpack = controle o live load do arquivo durante o desenvolvimento ( servidor)
+
+- classes
+
+-arrow functions
+
+- Desestruturação
+
+- Rest / Spread
+
+- Import / export
+
+- Async Await
+
+---- configurando yarn:
+
+https://cursos.alura.com.br/forum/topico-nodemon-nao-pode-ser-carregado-porque-a-execucao-de-scripts-foi-desabilitada-neste-sistema-111834
+
+https://pt.stackoverflow.com/questions/220078/o-que-significa-o-erro-execu%C3%A7%C3%A3o-de-scripts-foi-desabilitada-neste-sistema
+
+    https://stackoverflow.com/questions/37700536/visual-studio-code-terminal-how-to-run-a-command-with-administrator-rights
